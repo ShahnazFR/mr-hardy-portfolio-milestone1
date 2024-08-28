@@ -179,4 +179,51 @@ main section {
 }
 
 /* Resume section starts here */
+.cv-btn{
+  /* align-items: center; */
+  /* text-align: center; */
+  /* justify-items: center;
+  dis */
+  /* display: block; */
+  /* align-items: center; */
+  /* justify-items: right; */
+  /* align-items: center;
+   */
+   margin-left: 400px;
+   margin-top: 50px;
+   margin-bottom: 115px;
+   text-align: center;
+}
 
+ hr{
+  background: #D1D1D1;
+}
+
+.resume-container {
+  display: flex;
+  gap: 70px;
+}
+
+.resume-column {
+  width: 50%;
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
+.degree{
+  color: #474747;
+font-size: 25px;
+font-weight: 700;
+margin-bottom: 10px;
+}
+
+.institution{
+  margin-top: 0px;
+}
+
+.degree-detail{
+  color: #757575;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px; 
+}
